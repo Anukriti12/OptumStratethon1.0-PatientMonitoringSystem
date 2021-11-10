@@ -1,0 +1,55 @@
+DATE OF ADMISSION: 05/22/2019
+CONSULTANTS: None.
+PROCEDURES: None.
+BRIEF HISTORY: The patient is a (XX)-year-old white female with known history of asthma since infancy, possible environmental allergies, who presented with progressive wheezing and respiratory distress for the past two days. The patient had been doing well on only p.r.n. medications per family’s report. However, just previous to admission, the patient was exposed to dust and other particles after moving into a new house. After conservative treatment at home, the patient was brought into the emergency room where she did not improve on albuterol, Atrovent treatments or intravenous steroids immediately. Initial examination showed tachycardia of 128, rest tachypnea of about 35-40, inspiratory and expiratory wheezes and rhonchi on lung examination. The patient was referred for admission for evaluation of worsening asthma and possible pneumonia.
+STUDIES: The admission chest x-ray showed clear lungs. Clean catch urine culture showed only mixed skin flora.
+
+HOSPITAL COURSE:
+1. Status asthmaticus: The patient was admitted to the pediatric intensive care unit in moderate to severe respiratory distress with continuous albuterol treatments, Atrovent treatments q.4 h., Decadron intravenously and empiric treatment of respiratory infection with azithromycin intravenously. The patient responded to this aggressive treatment and within one day was transferred to the regular pediatric medical floor. The patient was afebrile with normal oxygen saturations and appearing much better. Before discharge, she received asthma education and social counseling along with the family and was connected with social work to help provide a home nebulizer for use.
+2. Empiric respiratory infection treatment: The patient did not show any specific indications of pneumonia or bronchitis by lab work; however, her initial physical examination showed possible pneumonia. She was started on intravenous antibiotics and was transferred to oral antibiotics before discharge.
+
+ACTIVITY: Ad lib.
+
+DIET: Regular, as appropriate for age.
+
+MEDICATIONS: Zithromax for two remaining days, albuterol one dose nebulizer treatment q.i.d. and p.r.n. and Flovent 110 mcg 2 puffs b.i.d.
+
+FOLLOWUP: Follow up with primary care physician in 1 week.
+
+
+
+RESULT:
+c="asthma" 4:13 4:13||t="problem"
+c="environmental allergies," 4:17 4:18||t="treatment"
+c="respiratory distress" 4:25 4:26||t="problem"
+c="only p.r.n. medications" 4:39 4:41||t="treatment"
+c="conservative treatment" 4:66 4:67||t="treatment"
+c="albuterol, atrovent treatments" 4:84 4:86||t="treatment"
+c="intravenous steroids" 4:88 4:89||t="treatment"
+c="immediately. initial examination" 4:90 4:92||t="test"
+c="tachycardia" 4:94 4:94||t="problem"
+c="expiratory wheezes" 4:104 4:105||t="treatment"
+c="rhonchi" 4:107 4:107||t="treatment"
+c="evaluation" 4:118 4:118||t="test"
+c="worsening asthma" 4:120 4:121||t="problem"
+c="studies: the admission chest x-ray" 5:0 5:4||t="test"
+c="urine culture" 5:10 5:11||t="test"
+c="severe respiratory distress" 8:16 8:18||t="problem"
+c="continuous albuterol treatments, atrovent treatments" 8:20 8:24||t="treatment"
+c="respiratory infection" 8:33 8:34||t="problem"
+c="azithromycin" 8:36 8:36||t="treatment"
+c="afebrile" 8:60 8:60||t="problem"
+c="oxygen saturations" 8:63 8:64||t="test"
+c="a home nebulizer" 8:91 8:93||t="treatment"
+c="empiric respiratory infection" 9:1 9:3||t="problem"
+c="pneumonia" 9:14 9:14||t="problem"
+c="bronchitis" 9:16 9:16||t="problem"
+c="physical examination" 9:23 9:24||t="test"
+c="pneumonia." 9:27 9:27||t="problem"
+c="intravenous antibiotics" 9:32 9:33||t="treatment"
+c="oral antibiotics" 9:38 9:39||t="treatment"
+c="medications: zithromax" 15:0 15:1||t="treatment"
+c="two remaining days, albuterol one dose nebulizer treatment" 15:3 15:10||t="treatment"
+c="flovent" 15:15 15:15||t="treatment"
+
+

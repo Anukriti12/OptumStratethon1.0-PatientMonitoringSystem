@@ -1,0 +1,37 @@
+//
+// dropify.scss
+//
+
+
+.vue-dropzone {
+  border: 2px dashed rgba(50, 58, 70, 0.3) !important;
+}
+.vue-dropzone > .dz-preview .dz-details {
+  background-color: #e5e5e5 !important;
+  color: rgba(0, 0, 0, 0.9) !important;
+  border-radius: 20px;
+}
+.vue-dropzone > .dz-preview .dz-image {
+  height: 120px !important;
+  width: 120px !important;
+}
+
+.dropzone .dz-message {
+  margin: 3em 0 !important;
+  font-size: 1.5rem;
+}
+@font-face {
+  font-family: "dropify";
+  src: url("~~~@assets/fonts/dropify.eot");
+  src: url("~~~@assets/fonts/dropify.eot#iefix") format("embedded-opentype"),
+    url("~~~@assets/fonts/dropify.woff") format("woff"), url("~~~@assets/fonts/dropify.ttf") format("truetype"),
+    url("~~~@assets/fonts/dropify.svg#dropify") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.dropify-wrapper {
+  border: 2px dashed rgba($dark, 0.3);
+  background: $white;
+  border-radius: 6px;
+}

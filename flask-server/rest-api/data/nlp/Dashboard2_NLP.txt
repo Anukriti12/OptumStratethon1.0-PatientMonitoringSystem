@@ -1,0 +1,122 @@
+DATE OF ADMISSION: 05/22/2019
+ADMITTING DIAGNOSIS: Syncope.
+CHIEF COMPLAINT: Vertigo or dizziness.
+
+HISTORY OF PRESENT ILLNESS: This is an (XX)-year-old male with a past medical history of coronary artery disease, CABG done a few years ago, atrial fibrillation, peripheral arterial disease, peripheral neuropathy, recently retired one year ago secondary to leg pain. The patient came to the ER for an episode of vertigo while reaching for some books. The patient was able to reach the books, to support self, but did not have any syncope. No nausea or vomiting. No chest pain. No shortness of breath. Came to ER and had a CT head, which was within normal limits. The impression was atrophy with old ischemic changes but no acute intracranial findings. No focal weakness, headache, vision changes or speech changes. The patient has had similar episodes since one year. Peripheral neuropathy since one year and not relieved with multiple medications. The patient also complains of weight loss of 25 pounds in the last 6 months. No colonoscopy done. Recent history of hematochezia but believes it was secondary to proctitis and secondary to decreased appetite. No nausea, vomiting, no abdominal pain.
+
+PROCEDURES PERFORMED: The patient had a chest x-ray, which showed cardiomegaly with atherosclerotic heart disease, pleural thickening and small pleural effusion, a left costophrenic angle which has not changed when compared to prior examination, COPD pattern. The patient also had a head CT which showed atrophy with old ischemic changes. No acute intracranial findings.
+
+CONSULTS OBTAINED: A rehab consult was done.
+
+PAST MEDICAL/SURGICAL HISTORY: Positive for atrial fibrillation. The patient had AVR 6 years ago. Peripheral arterial disease with hypertension, peripheral neuropathy, atherosclerosis, hemorrhoids, proctitis, CABG, and cholecystectomy.
+
+FAMILY HISTORY: Positive for atherosclerosis, hypertension, autoimmune diseases in the family.
+
+SOCIAL HISTORY: Never smoked. Alcohol socially. No drugs.
+
+ALLERGIES: NO KNOWN DRUG ALLERGIES.
+
+REVIEW OF SYSTEMS: Weight loss of 25 pounds within the last 6 months, shortness of breath, constipation, bleeding from hemorrhoids, increased frequency of urination, muscle aches, dizziness and faintness, focal weakness and numbness in both legs, knees and feet.
+
+PHYSICAL EXAMINATION: VITAL SIGNS: Blood pressure 188/74, pulse 62, respirations 18 and saturation of 98% on room air. General Appearance: The patient is a pleasant man, comfortable. HEENT: Conjunctivae are normal. PERRLA. EOMI. NECK: No masses. Trachea is central. No thyromegaly. LUNGS: Clear to auscultation and percussion bilaterally. HEART: Irregular rhythm. ABDOMEN: Soft, nontender, and nondistended. Bowel sounds are positive. GENITOURINARY: Prostate is hypertrophic with smooth margin. EXTREMITIES: Upper and lower limbs bilaterally normal. SKIN: Normal. NEUROLOGIC: Cranial nerves are grossly within normal limits. No nystagmus. DTRs are normal. Good sensation. The patient is alert, awake, and oriented x3. Mild confusion.
+
+LABORATORY DATA AND RADIOLOGICAL RESULTS: WBC 8.6, hemoglobin 13.4, hematocrit 39.8, platelets 207,000, MCV 91.6, neutrophil percentage of 72.6%. Sodium 133, potassium 4.7, chloride 104. Blood urea nitrogen of 18 and creatinine of 1.1. PT 17.4, INR 1.6, PTT 33.
+
+The patient had a chest x-ray, which showed cardiomegaly with atherosclerotic heart disease, pleural thickening and small pleural effusion, a left costophrenic angle which has not changed when compared to prior examination, COPD pattern. The patient also had a head CT, which showed atrophy with old ischemic changes. No acute intracranial findings.
+
+HOSPITAL COURSE AND TREATMENT: This is an (XX)-year-old male with syncope.
+1. Syncope. This may be secondary to questionable cerebral ischemia/atrial fibrillation/hypotension, so Neurology was kept on board and the patient was scheduled for a carotid Doppler and a 2-D echo. Orthostatics were ordered. Vitamin B12, TSH, free T4 and T3 were ordered along with cortisol level in the morning. FOBT x3 were done and cardiology followup as outpatient. The patient had a carotid Doppler done on the next day and it showed mild irregular plaque disease, right and left internal carotid arteries, approximately 20-59%. The patient’s vitamin B12 level came the next morning and the level was 1180. His folate was 18.7 and his TSH was 1.98, free T4 of 1.38 and T4 level of 7.4, cortisol level of 15.4, which are within normal limits. Dr. Doe, who is the patient’s cardiologist, was informed. Dr. Doe was kind enough to see the patient the very next day, and his impression was that the patient has atrial fibrillation, rate controlled, status post AVR, St. Jude, and peripheral neuropathy. Subtherapeutic INR, the patient’s relative target INR is 2-3. He suggested PT evaluation and suggested a low dose of SSRI and Dr. Doe was of the opinion that the patient does not need any further cardiac recommendation. CT chest, abdomen, and pelvis were done. CT chest had an impression of coronary artery calcification, aortic valve replacement, cardiomegaly, suspect a very small left pleural effusion, no acute active pulmonary disease. CT abdomen and pelvis showed prior cholecystectomy, diverticulosis of sigmoid colon, two benign-appearing simple cysts involving the right kidney, calcified arteriosclerotic plaque disease of the abdominal aorta and iliac vessels bilaterally. The patient was ruled out of any malignancy whatsoever.
+2. Hypertension. The patient at home was on Cardizem ER 90 mg thrice daily, and it was changed initially to Cardizem 90 mg thrice daily, and then with Dr. Doe’s request, we changed the Cardizem to 240 mg t.i.d.
+3. Atrial fibrillation with subtherapeutic INR. The patient at home was on Digitalis. That was continued. Dr. Doe was of the opinion that the patient himself takes care of the Coumadin, and Dr. Doe was of the opinion that probably that is why the patient is not able to maintain therapeutic INR. In the hospital, the patient’s warfarin was increased to 5 mg q.h.s., and at the time of the discharge, he was requested to follow his appointments so that his INR can be maintained.
+4. Gout. The patient was on allopurinol. There were no acute issues regarding the gout.
+5. Prophylaxis. The patient was on Protonix and TEDs.
+6. Social. The patient is FULL CODE.
+
+
+
+RESULT:
+c="vertigo" 3:2 3:2||t="problem"
+c="dizziness." 3:4 3:4||t="problem"
+c="atrial fibrillation, peripheral arterial disease, peripheral neuropathy," 5:24 5:30||t="problem"
+c="nausea" 5:74 5:74||t="problem"
+c="chest pain." 5:78 5:79||t="problem"
+c="shortness of breath." 5:81 5:83||t="problem"
+c="a ct head," 5:89 5:91||t="test"
+c="atrophy" 5:100 5:100||t="problem"
+c="old ischemic changes" 5:102 5:104||t="problem"
+c="focal weakness, headache, vision changes" 5:111 5:115||t="problem"
+c="weight loss" 5:144 5:145||t="problem"
+c="colonoscopy" 5:155 5:155||t="problem"
+c="hematochezia" 5:160 5:160||t="problem"
+c="proctitis" 5:167 5:167||t="problem"
+c="abdominal pain." 5:177 5:178||t="problem"
+c="a chest x-ray," 7:5 7:7||t="test"
+c="atherosclerotic heart disease, pleural thickening" 7:12 7:16||t="problem"
+c="small pleural effusion, a left costophrenic angle" 7:18 7:24||t="problem"
+c="examination, copd" 7:33 7:34||t="problem"
+c="a head ct" 7:40 7:42||t="test"
+c="atrophy" 7:45 7:45||t="problem"
+c="old ischemic changes." 7:47 7:49||t="problem"
+c="acute intracranial findings." 7:51 7:53||t="problem"
+c="atrial fibrillation." 11:5 11:6||t="problem"
+c="avr" 11:10 11:10||t="test"
+c="peripheral arterial disease" 11:14 11:16||t="problem"
+c="hypertension, peripheral neuropathy, atherosclerosis, hemorrhoids, proctitis, cabg," 11:18 11:24||t="treatment"
+c="atherosclerosis, hypertension, autoimmune diseases" 13:4 13:7||t="treatment"
+c="drugs." 15:7 15:7||t="problem"
+c="weight loss of __num__ pounds" 19:3 19:7||t="problem"
+c="constipation, bleeding" 19:16 19:17||t="problem"
+c="dizziness" 19:26 19:26||t="problem"
+c="faintness, focal weakness" 19:28 19:30||t="problem"
+c="numbness in both legs, knees" 19:32 19:36||t="problem"
+c="blood pressure" 21:4 21:5||t="test"
+c="pulse" 21:7 21:7||t="test"
+c="respirations" 21:9 21:9||t="test"
+c="and saturation" 21:11 21:12||t="test"
+c="auscultation" 21:44 21:44||t="test"
+c="percussion" 21:46 21:46||t="test"
+c="wbc" 23:5 23:5||t="test"
+c="hemoglobin" 23:7 23:7||t="test"
+c="__num__" 23:8 23:8||t="test"
+c="hematocrit" 23:9 23:9||t="test"
+c="platelets" 23:11 23:11||t="test"
+c="mcv" 23:13 23:13||t="test"
+c="neutrophil percentage" 23:15 23:16||t="test"
+c="__num__ sodium" 23:18 23:19||t="treatment"
+c="potassium" 23:21 23:21||t="test"
+c="blood urea nitrogen" 23:25 23:27||t="test"
+c="creatinine" 23:31 23:31||t="test"
+c="pt" 23:34 23:34||t="test"
+c="inr" 23:36 23:36||t="test"
+c="ptt" 23:38 23:38||t="test"
+c="a chest x-ray," 25:3 25:5||t="test"
+c="atherosclerotic heart disease, pleural thickening" 25:10 25:14||t="problem"
+c="small pleural effusion, a left costophrenic angle" 25:16 25:22||t="problem"
+c="examination, copd" 25:31 25:32||t="problem"
+c="a head ct," 25:38 25:40||t="test"
+c="atrophy" 25:43 25:43||t="problem"
+c="old ischemic changes." 25:45 25:47||t="problem"
+c="acute intracranial findings." 25:49 25:51||t="problem"
+c="questionable cerebral ischemia/atrial fibrillation/hypotension," 28:7 28:10||t="problem"
+c="board" 28:16 28:16||t="treatment"
+c="a carotid doppler" 28:23 28:25||t="test"
+c="vitamin" 28:33 28:33||t="treatment"
+c="cortisol level" 28:44 28:45||t="treatment"
+c="cardiology followup" 28:54 28:55||t="treatment"
+c="a carotid doppler" 28:61 28:63||t="problem"
+c="mild irregular plaque disease, right and left internal carotid arteries," 28:72 28:81||t="problem"
+c="cortisol level" 28:116 28:117||t="test"
+c="atrial fibrillation," 28:155 28:156||t="problem"
+c="evaluation" 28:179 28:179||t="problem"
+c="coronary artery calcification, aortic valve replacement, cardiomegaly," 28:217 28:223||t="treatment"
+c="acute active pulmonary disease. ct abdomen" 28:232 28:237||t="problem"
+c="prior cholecystectomy, diverticulosis" 28:241 28:243||t="problem"
+c="the abdominal aorta" 28:260 28:262||t="problem"
+c="any malignancy whatsoever." 28:273 28:275||t="problem"
+c="cardizem" 29:20 29:20||t="treatment"
+c="atrial fibrillation" 30:1 30:2||t="problem"
+c="his inr" 30:80 30:81||t="test"
+c="acute issues regarding the gout." 31:10 31:14||t="problem"
+c="protonix" 32:6 32:6||t="treatment"
+
+
